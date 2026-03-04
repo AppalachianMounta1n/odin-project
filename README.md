@@ -1,2 +1,1 @@
-# odin-project
-My repository for working through The Odin Project
+This is where I'll (finally) be working through The Odin Project. I'm not sure how it took me THIS long to do it but here I am, finally.
